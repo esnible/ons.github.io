@@ -46,6 +46,10 @@ Liang
 nien
 shui
 
+# Chinese dynasties and ethnic groups
+Hsia
+Tangut
+
 # Scholars of Chinese numismatics
 Cresswell
 Cridland

@@ -5,6 +5,8 @@ dictionaryDefinitions:
     path: dictionaries/indian-numismatics.txt
   - name: chinese-numismatics
     path: dictionaries/chinese-numismatics.txt
+  - name: islamic-numismatics
+    path: dictionaries/islamic-numismatics.txt
 dictionaries:
   - en_US
   - en_GB
@@ -12,6 +14,7 @@ dictionaries:
   - ar
   - indian-numismatics
   - chinese-numismatics
+  - islamic-numismatics
 words: []
 ignoreWords: []
 import: []
