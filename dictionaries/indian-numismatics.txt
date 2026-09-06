@@ -1990,11 +1990,18 @@ Trubner
 
 # ONS 77 — Arakanese coins, Indian and Islamic bibliography
 Bhanugupta
+Collis
+Faber
 Jayantia
 Jayavarman
 Kalabhra
+Kalimata
+Katha
+Kesari
 Kootran
 Madalapanji
+Nalas
+Ngeu
 Nolamba
 Parenda
 Patnaik
@@ -2006,6 +2013,8 @@ Sahoo
 Saivism
 Samanta
 Siu
+Thakhin
+thakhin
 
 # ONS 78 — Pyu coins; Sardis review; miscellaneous bibliography
 Abels
