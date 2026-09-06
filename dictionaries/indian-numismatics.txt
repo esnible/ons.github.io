@@ -2088,9 +2088,11 @@ Palaung
 Ranaung
 Salingathu
 Thazata
+Thet
 Thingathu
 Thirithu
 Vesali
+Zala
 # ONS 082-083 – Lead coins of Pegu
 Bavanni
 # OP_017 — The Gaden Tangka of Tibet: scholars, mints, explorers, terms
