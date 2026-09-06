@@ -2109,8 +2109,6 @@ Saljuqides
 Thakkura
 Pheru
 Tughluq
-Tughlugid
-Tughlugids
 Tughluqid
 Tughluqids
 Speight
@@ -2118,6 +2116,17 @@ Isfandiyar
 Brennig
 Harsel
 Jucknath
+
+# ONS 71 — additional bibliography, history and Sanskrit-title terms
+Barmaki
+Barni
+Dravya
+Gangu
+IFAO
+Juna
+Pariksha
+Sartiz
+Schroeck
 
 # ONS 67 — bibliography: Islamic/Mughal journal references
 Fisekcioglu

@@ -10,13 +10,16 @@ dictionaryDefinitions:
 dictionaries:
   - en_US
   - en_GB
-  # Requires `npm install --global @cspell/dict-ar @cspell/dict-fa-ir` and the
-  # matching entries in `import:` below. Coin legends in this corpus are Mughal-
-  # era Perso-Arabic, so both dictionaries are needed: Modern Standard Arabic
-  # (`ar`) does not cover Persian vocabulary or Persian letterforms (KEHEH ک,
-  # FARSI YEH ی) used alongside standard Arabic letters in the same legend.
+  # Requires `npm install --global @cspell/dict-ar @cspell/dict-fa-ir
+  # @cspell/dict-fr-fr` and the matching entries in `import:` below. Coin legends
+  # in this corpus are Mughal-era Perso-Arabic, so both Arabic dictionaries are
+  # needed: Modern Standard Arabic (`ar`) does not cover Persian vocabulary or
+  # Persian letterforms (KEHEH ک, FARSI YEH ی) used alongside standard Arabic
+  # letters in the same legend. `fr-fr` covers the French passages that recur in
+  # ONS newsletters (regional-secretary notices, French book titles).
   - ar
   - fa-ir
+  - fr-fr
   - indian-numismatics
   - chinese-numismatics
   - islamic-numismatics
@@ -164,3 +167,4 @@ ignoreWords: []
 import:
   - "@cspell/dict-ar/cspell-ext.json"
   - "@cspell/dict-fa-ir/cspell-ext.json"
+  - "@cspell/dict-fr-fr/cspell-ext.json"

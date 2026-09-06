@@ -9477,3 +9477,11 @@ Handminting
 
 # ONS_055 — Newsletter 55: bibliography scholar name (Bodhi dynasty from Tripuri article)
 Choubay
+
+# ONS_071 — Andhra Pradesh publications list (JAHRS/APJA): journals, place, author names
+Alikhan
+APJA
+Fazaluddin
+Gunfoundry
+JAHRS
+Ramakantham
