@@ -2714,3 +2714,6 @@ Societat
 
 # IS_003 — TABLE 2 reverse inscriptions (Wade-Giles with circumflex)
 chêng
+
+# ONS_073 — Newsletter 73 bibliography
+Becht
