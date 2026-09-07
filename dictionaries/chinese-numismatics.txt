@@ -2717,3 +2717,9 @@ chêng
 
 # ONS_073 — Newsletter 73 bibliography
 Becht
+
+# ONS_082-083 — Newsletter 82-83: Chinese presentation pieces, Tibetan grain tokens
+amuletic
+jettons
+Morioka
+Trinh
